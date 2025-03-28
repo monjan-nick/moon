@@ -1,5 +1,5 @@
 # NICK-MD-BOT (Beta) for testers
-## This version of x bot is only for testers to test
+## This version of nick bot is only for testers to test
 
 ## Join for updates
 <p align="center">
@@ -41,7 +41,7 @@
 
 #. Now Deploy
     <br>
-<a href='https://render.com/deploy?repo=https://github.com/A-d-i-t-h-y-a-n/hermit-bot' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=koyeb'/></a>
+<a href='https://render.com/deploy?repo=https://github.com/monjan-nick/moon' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=koyeb'/></a>
 
 
 #### Thanks To
